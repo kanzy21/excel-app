@@ -1,5 +1,3 @@
-# React + Vite
-
 # React Excel Application
 
 This is a simple excel application built with React and Vite, featuring functionalities like editable cells, dynamic rows and columns, formula calculations (`SUM`, `AVERAGE`), cell formatting (bold and background color), and saving/loading data in JSON format.
@@ -41,7 +39,7 @@ npm run dev
 
 The Application Runs on **http://127.0.0.1:5174**
 
-This will directly open the application and you can use the features mentioned above except copy and paste.
+This will directly open the application and you can use the features mentioned above except `copy` and `paste`.
 
-To use feature of sum and average calculation you have to write =AVERAGE(A1:A3) or =SUM(A1:A3) where A1 is 1st cell of 1st row and 1st column and A3 is 1st cell of 1st column and 3rd row.
+To use feature of sum and average calculation you have to write `=AVERAGE(A1:A3)` or `=SUM(A1:A3)` where A1 is 1st cell of 1st row and 1st column and A3 is 1st cell of 1st column and 3rd row.
 
