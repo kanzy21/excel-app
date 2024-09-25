@@ -1,0 +1,26 @@
+.excel-table td {
+    /* border: 1px solid black; */
+    padding: 0px 5px 0px 5px;
+    background-color: white
+}
+
+.excel-table input {
+    width: 100%;
+    background-color: white;
+    color: black;
+    height: 100%;
+    border: 1px solid black;
+    padding: 5px;
+    /* margin: 5px; */
+}
+
+.excel-container {
+    padding: 20px;
+    background-color: black
+}
+
+.excel-table {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: white
+}
